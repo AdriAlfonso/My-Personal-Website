@@ -246,3 +246,9 @@ body{
     margin-right: 15px;
     margin-left: 15px;
 }
+
+.e-mail__footer{
+    margin: 20px;
+    font-size: 10px;
+    text-align: center;
+}
